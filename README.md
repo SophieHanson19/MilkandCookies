@@ -1,2 +1,2 @@
-﻿# Edabitexample
-<h1> hello <h1>
+﻿# MilkandCookies
+<h1> How to get Dates from Javascript <h1>
